@@ -81,7 +81,6 @@ python step3_train_tau.py
 - **Input**: Extracted features
 - **Output**:
   - `saved_models/tau_strategy_A.pt` — Scalar-tau model
-  - `results/tau_training_loss.png` — Training loss curve
 - **Time**: ~5–10 minutes (CPU)
 
 ### Step 5: Evaluate Proposed Method
