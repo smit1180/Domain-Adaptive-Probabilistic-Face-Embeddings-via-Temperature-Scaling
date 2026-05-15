@@ -1,0 +1,11 @@
+Method                              Camera           Accuracy     TAR@1%   TAR@0.1%
+==================================================================================
+-- Baseline --
+  PFE -- MLS + fusion (vanilla)     All                0.8475     0.5426     0.2775
+
+-- Strategy A: Scalar-tau --
+  Scalar-tau+Fusion                 Fused              0.8588     0.5971     0.4485
+  Scalar-tau                        Cam1-VeryMild      0.8566     0.6191     0.4971
+  Scalar-tau                        Cam2-Mild          0.8559     0.6044     0.4044
+  Scalar-tau                        Cam3-MedMild       0.8353     0.5191     0.4000
+==================================================================================
