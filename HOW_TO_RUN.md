@@ -128,7 +128,6 @@ Method                              Camera              Accuracy    T@1%    T@0.
 
 -- Strategy A: Scalar-tau --
   Scalar-tau+Fusion                 Fused           0.XXXX   0.XXXX    0.XXXX
-  Scalar-tau                        All             0.XXXX   0.XXXX    0.XXXX
   Scalar-tau                        Cam1-VeryMild   0.XXXX   0.XXXX    0.XXXX
   Scalar-tau                        Cam2-Mild       0.XXXX   0.XXXX    0.XXXX
   Scalar-tau                        Cam3-MedMild    0.XXXX   0.XXXX    0.XXXX
